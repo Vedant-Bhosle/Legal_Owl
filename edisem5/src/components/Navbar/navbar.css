@@ -1,0 +1,20 @@
+.customnavbar{
+    background-color: rgb(242, 244, 247);
+    
+}
+.cnavlink{
+    color: black;
+    /* margin-right: 0.5rem; */
+
+
+}
+.cnavlink:hover{
+    color: black;
+}
+
+.cnavheading{
+    color: black;
+}
+.cnavheading:hover{
+    color: black;
+}

@@ -1,0 +1,89 @@
+
+
+.homepagemaindiv{
+    overflow:hidden;
+    margin: 1rem 2rem;
+ 
+}
+
+.homelognbox{
+
+/* border: 1px solid black; */
+width:95vw;
+height:44vh;
+ border-radius:2rem;
+ /* background-color:black; */
+background-image: url('./home\ page\ 4.png');
+background-repeat: no-repeat;
+background-size:cover ;
+
+
+}
+
+
+.homepagesubdiv2{
+    display: flex;
+}
+.homeSubdiv2box{
+    /* border: 1px solid black; */
+    height:44vh;
+    width:50vw;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.homeboxcard{
+    margin: 1rem;
+    /* border: 2px solid black; */
+    height:38vh;
+    width: 43vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius:1rem;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    flex-direction: column;
+}
+
+
+.homeboxbtn{
+
+    padding:0.3rem 4rem;
+    font-size:1.5rem;
+    border-radius:2rem;
+    margin-left: 10rem;
+    margin-top: 2rem;
+    background-color: #0b1930;
+    color :white;
+    transition:ease;
+    
+}
+
+.homeboxbtn:hover{
+color :#0b1930;
+border: 3px solid #0b1930;
+background-color:white;
+transition:background-color 0.5s;
+}
+
+.homebox2{
+
+    background-image:url('./Get\ advice.png') ;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+    
+
+    
+}
+
+.homebox3{
+    background-image:url('./Document\ filling.png') ;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+}
+.homeboxbtn2{
+    margin-left: 18rem;
+}
